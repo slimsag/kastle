@@ -1,1 +1,3 @@
 # kastle
+
+- [Blueprints](BLUEPRINTS.md)
